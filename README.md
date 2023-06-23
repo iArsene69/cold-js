@@ -1,10 +1,8 @@
-# ColdJs
+# ColdJS
 
 A dead easy cli for building new Node.js project with the power of Typescript, Prisma ORM and express.js in one command line
 
-<img src='https://github.com/iArsene69/free-asset-hosting/blob/main/coldjs.svg' alt='coldjs' height='250'>
-
-<img src='https://github.com/iArsene69/iArsene69/blob/main/typescript-svgrepo-com.svg' alt='typescript' height='120'>                <img src='https://github.com/iArsene69/iArsene69/blob/main/express-svgrepo-com.svg' alt='express' height='120'>              <img src='https://github.com/iArsene69/free-asset-hosting/blob/main/light-prisma-svgrepo-com.svg' alt='express' height='120'>
+<img src='https://github.com/iArsene69/free-asset-hosting/blob/main/coldjs.svg' alt='coldjs' height='350'>
 
 ## Installation
 
@@ -68,4 +66,4 @@ Contributions are always welcome
 
 You can ask and share with me at [Miko v1 HQ](https://discord.gg/PhZ9UnCvwW)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/iArsene69/iArsene69/blob/main/Database%20Deployments%20_%20Cloud_%20MongoDB%20Cloud%20-%20Google%20Chrome%2023_05_2023%2015_28_19.png)
