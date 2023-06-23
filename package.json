@@ -1,5 +1,5 @@
 {
-  "name": "iarsene/cold_js",
+  "name": "@iarsene/cold_js",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
