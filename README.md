@@ -1,10 +1,10 @@
 # ColdJs
 
-<img src='https://github.com/iArsene69/free-asset-hosting/blob/main/coldjs.svg' alt='coldjs' height='300'>
-
 A dead easy cli for building new Node.js project with the power of Typescript, Prisma ORM and express.js in one command line
 
-<img src='https://github.com/iArsene69/iArsene69/blob/main/typescript-svgrepo-com.svg' alt='typescript' height='120'>  <img src='https://github.com/iArsene69/iArsene69/blob/main/express-svgrepo-com.svg' alt='express' height='120'>  <img src='https://github.com/iArsene69/free-asset-hosting/blob/main/light-prisma-svgrepo-com.svg' alt='express' height='120'>
+<img src='https://github.com/iArsene69/free-asset-hosting/blob/main/coldjs.svg' alt='coldjs' height='250'>
+
+<img src='https://github.com/iArsene69/iArsene69/blob/main/typescript-svgrepo-com.svg' alt='typescript' height='120'>                <img src='https://github.com/iArsene69/iArsene69/blob/main/express-svgrepo-com.svg' alt='express' height='120'>              <img src='https://github.com/iArsene69/free-asset-hosting/blob/main/light-prisma-svgrepo-com.svg' alt='express' height='120'>
 
 ## Installation
 
