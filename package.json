@@ -1,5 +1,5 @@
 {
-  "name": "cli-framework",
+  "name": "@iArsene69/cold-js",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -10,9 +10,16 @@
     "build": "rimraf ./dist&&tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "nodejs",
+    "npmtool",
+    "nodebuilder"
+  ],
+  "author": "iArsene",
   "license": "ISC",
+  "repository": "https://github.com/iArsene69/cold-js",
+  "homepage": "https://github.com/iArsene69/cold-js#readme",
   "dependencies": {
     "@types/node": "^20.3.1",
     "commander": "^11.0.0",
