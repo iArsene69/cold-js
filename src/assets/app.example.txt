@@ -1,0 +1,20 @@
+import express from "express";
+import dotenv from "dotenv";
+import cors from "cors";
+import Router from "./Routes/index";
+
+dotenv.config();
+const app = express();
+const port = process.env.PORT || 8080;
+
+(async () => {
+  try {
+    app.use(cors());
+    app.use(Router);
+    app.listen(port, () => {
+      console.log(`Server started at http://localhost:${port}`);
+    });
+  } catch (error) {
+    console.error(error);
+  }
+})();
